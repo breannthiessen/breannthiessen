@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @breannthiessen
+- 👀 I’m interested in Developing REST API's, .Net, and Data Safety
+- 🌱 I’m currently learning React
